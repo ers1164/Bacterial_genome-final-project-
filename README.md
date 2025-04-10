@@ -1,4 +1,4 @@
-# Final-project-
- Group memebers: Emily 
- Background data 
+Bacterial Genome assembly final project
+Group memebers: Emily
+#Background data: 
    
