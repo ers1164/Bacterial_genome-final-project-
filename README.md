@@ -1,1 +1,2 @@
-Bacterial Genome assembly final
+# Bacterial Genome assembly final Project 
+<sub> group memebers:Emily Small 
