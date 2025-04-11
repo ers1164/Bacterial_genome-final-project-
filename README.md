@@ -1,2 +1,1 @@
-Bacterial Genome assembly final project
-Group memebers: Emily
+Bacterial Genome assembly final
